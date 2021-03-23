@@ -1,1 +1,1 @@
-# intro-webpage-rg
+# dice-roller using JavaScript
